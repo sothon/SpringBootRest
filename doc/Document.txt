@@ -12,3 +12,6 @@
 	
 * H2 database
 	http://localhost:8080/h2-console
+	Save Settings: Generic H2(Embedded)
+	Setting Name : Generic H2(Embedded)
+	JDBC URL 	 : jdbc:h2:mem:testdb
