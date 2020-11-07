@@ -10,7 +10,7 @@
 * actuator
 	http://localhost:8080/actuator
 	
-* H2 database
+* H2 memory database
 	http://localhost:8080/h2-console
 	Save Settings: Generic H2(Embedded)
 	Setting Name : Generic H2(Embedded)
